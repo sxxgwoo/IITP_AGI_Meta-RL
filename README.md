@@ -23,7 +23,7 @@ meta_rl/
 │   ├── models.py               # VAE encoder/decoder, policy/value network
 │   └── train_YYYYMMDD_xxxxxx.log
 │
-├── hlt_dynamite_rl/                   # HLT-DynaMITE-RL: latent 구조 확장 실험
+├── hlt_dynamite_rl/            # HLT-DynaMITE-RL: latent 구조 확장 실험
 │   ├── checkpoints_hlt/        # HLT 실험용 모델 저장
 │   ├── graph/                  # 학습곡선, best policy evaluation 그래프
 │   ├── logs/                   # HLT 버전 로그

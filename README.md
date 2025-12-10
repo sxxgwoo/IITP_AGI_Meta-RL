@@ -98,7 +98,7 @@ python main.py
 ### HLT-DynaMITE-RL
 
 ```
-cd meta_rl/hlt_meta
+cd meta_rl/hlt_dynamite_rl
 python main.py
 ```
 

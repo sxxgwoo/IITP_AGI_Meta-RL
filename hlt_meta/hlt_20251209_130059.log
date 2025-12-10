@@ -1,0 +1,114 @@
+nohup: ignoring input
+[HLT] Initializing DynaMITE-RL (Hierarchical) for GridWorldAlternate...
+Checkpoints: checkpoints_hlt/run_2025-12-09_13-01-09
+TensorBoard: logs/dynamite_gridworld_hlt/run_2025-12-09_13-01-09
+[HLT] Starting Training...
+[HLT] Iter   10 | Train R: -2.31 | Eval R: -1.00 (+/- 2.37) | VAE Loss: 0.6878 | RL Loss: 0.7407
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter10.pt! Reward: -1.00
+[HLT] Iter   20 | Train R: -1.37 | Eval R: -2.87 (+/- 2.83) | VAE Loss: 0.6493 | RL Loss: 0.6596
+[HLT] Iter   30 | Train R: 0.14 | Eval R: 1.36 (+/- 4.24) | VAE Loss: 0.6008 | RL Loss: 1.0520
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter30.pt! Reward: 1.36
+[HLT] Iter   40 | Train R: -0.24 | Eval R: -1.64 (+/- 4.99) | VAE Loss: 0.5122 | RL Loss: 0.7983
+[HLT] Iter   50 | Train R: 1.88 | Eval R: 4.11 (+/- 12.00) | VAE Loss: 0.4408 | RL Loss: 2.3575
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter50.pt! Reward: 4.11
+[HLT] Iter   60 | Train R: 7.47 | Eval R: -0.17 (+/- 5.07) | VAE Loss: 0.4237 | RL Loss: 5.2676
+[HLT] Iter   70 | Train R: 4.97 | Eval R: 2.96 (+/- 9.50) | VAE Loss: 0.4643 | RL Loss: 2.7465
+[HLT] Iter   80 | Train R: 1.27 | Eval R: 0.64 (+/- 2.89) | VAE Loss: 0.3640 | RL Loss: 3.0387
+[HLT] Iter   90 | Train R: 2.36 | Eval R: 2.16 (+/- 8.12) | VAE Loss: 0.3834 | RL Loss: 2.4041
+[HLT] Iter  100 | Train R: 4.34 | Eval R: 3.89 (+/- 6.93) | VAE Loss: 0.3493 | RL Loss: 2.2480
+[HLT] Iter  110 | Train R: 9.28 | Eval R: 8.41 (+/- 8.33) | VAE Loss: 0.4825 | RL Loss: 2.7311
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter110.pt! Reward: 8.41
+[HLT] Iter  120 | Train R: 8.49 | Eval R: 6.90 (+/- 10.62) | VAE Loss: 0.4357 | RL Loss: 3.1330
+[HLT] Iter  130 | Train R: 11.56 | Eval R: 8.70 (+/- 12.29) | VAE Loss: 0.4442 | RL Loss: 5.4881
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter130.pt! Reward: 8.70
+[HLT] Iter  140 | Train R: 12.27 | Eval R: 18.04 (+/- 17.03) | VAE Loss: 0.4656 | RL Loss: 5.8906
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter140.pt! Reward: 18.04
+[HLT] Iter  150 | Train R: 6.44 | Eval R: 6.81 (+/- 6.37) | VAE Loss: 0.4070 | RL Loss: 4.1241
+[HLT] Iter  160 | Train R: 16.50 | Eval R: 15.01 (+/- 15.42) | VAE Loss: 0.5089 | RL Loss: 7.7405
+[HLT] Iter  170 | Train R: 12.84 | Eval R: 16.66 (+/- 10.73) | VAE Loss: 0.5000 | RL Loss: 4.7554
+[HLT] Iter  180 | Train R: 13.98 | Eval R: 16.95 (+/- 12.93) | VAE Loss: 0.4660 | RL Loss: 7.7077
+[HLT] Iter  190 | Train R: 11.59 | Eval R: 11.67 (+/- 10.99) | VAE Loss: 0.4606 | RL Loss: 5.3708
+[HLT] Iter  200 | Train R: 14.25 | Eval R: 20.45 (+/- 11.71) | VAE Loss: 0.4718 | RL Loss: 7.4993
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter200.pt! Reward: 20.45
+[HLT] Iter  210 | Train R: 14.06 | Eval R: 15.88 (+/- 13.81) | VAE Loss: 0.5061 | RL Loss: 9.9969
+[HLT] Iter  220 | Train R: 16.89 | Eval R: 13.84 (+/- 6.54) | VAE Loss: 0.5022 | RL Loss: 8.2221
+[HLT] Iter  230 | Train R: 19.57 | Eval R: 13.34 (+/- 13.54) | VAE Loss: 0.5583 | RL Loss: 12.9724
+[HLT] Iter  240 | Train R: 20.46 | Eval R: 13.65 (+/- 8.02) | VAE Loss: 0.4705 | RL Loss: 9.9175
+[HLT] Iter  250 | Train R: 15.98 | Eval R: 14.26 (+/- 12.09) | VAE Loss: 0.4529 | RL Loss: 7.9755
+[HLT] Iter  260 | Train R: 11.08 | Eval R: 17.74 (+/- 13.56) | VAE Loss: 0.4372 | RL Loss: 6.6364
+[HLT] Iter  270 | Train R: 13.35 | Eval R: 14.41 (+/- 15.26) | VAE Loss: 0.4559 | RL Loss: 5.1108
+[HLT] Iter  280 | Train R: 16.62 | Eval R: 16.55 (+/- 12.79) | VAE Loss: 0.4889 | RL Loss: 10.7321
+[HLT] Iter  290 | Train R: 10.69 | Eval R: 19.97 (+/- 11.03) | VAE Loss: 0.4547 | RL Loss: 6.4700
+[HLT] Iter  300 | Train R: 14.58 | Eval R: 11.39 (+/- 5.28) | VAE Loss: 0.4723 | RL Loss: 7.7174
+[HLT] Iter  310 | Train R: 16.83 | Eval R: 12.73 (+/- 9.91) | VAE Loss: 0.4964 | RL Loss: 6.7006
+[HLT] Iter  320 | Train R: 12.94 | Eval R: 10.31 (+/- 7.56) | VAE Loss: 0.4488 | RL Loss: 6.6089
+[HLT] Iter  330 | Train R: 13.19 | Eval R: 13.67 (+/- 11.94) | VAE Loss: 0.4700 | RL Loss: 6.5633
+[HLT] Iter  340 | Train R: 14.97 | Eval R: 15.19 (+/- 10.45) | VAE Loss: 0.4408 | RL Loss: 6.9698
+[HLT] Iter  350 | Train R: 16.40 | Eval R: 18.40 (+/- 7.07) | VAE Loss: 0.4873 | RL Loss: 7.6106
+[HLT] Iter  360 | Train R: 13.82 | Eval R: 12.20 (+/- 11.69) | VAE Loss: 0.4656 | RL Loss: 9.1843
+[HLT] Iter  370 | Train R: 16.17 | Eval R: 17.82 (+/- 7.31) | VAE Loss: 0.5002 | RL Loss: 7.1438
+[HLT] Iter  380 | Train R: 16.53 | Eval R: 15.07 (+/- 8.19) | VAE Loss: 0.4764 | RL Loss: 8.2987
+[HLT] Iter  390 | Train R: 20.14 | Eval R: 16.68 (+/- 11.31) | VAE Loss: 0.4885 | RL Loss: 12.9126
+[HLT] Iter  400 | Train R: 16.48 | Eval R: 10.05 (+/- 8.91) | VAE Loss: 0.4527 | RL Loss: 9.3728
+[HLT] Iter  410 | Train R: 26.61 | Eval R: 13.70 (+/- 15.83) | VAE Loss: 0.5214 | RL Loss: 12.2615
+[HLT] Iter  420 | Train R: 14.57 | Eval R: 20.26 (+/- 16.26) | VAE Loss: 0.4871 | RL Loss: 9.0884
+[HLT] Iter  430 | Train R: 14.36 | Eval R: 15.64 (+/- 14.01) | VAE Loss: 0.4127 | RL Loss: 9.0614
+[HLT] Iter  440 | Train R: 17.88 | Eval R: 25.11 (+/- 16.70) | VAE Loss: 0.5130 | RL Loss: 11.1781
+    >>> [HLT] New Best Saved: checkpoints_hlt/run_2025-12-09_13-01-09/best_model_2025-12-09_13-01-09_iter440.pt! Reward: 25.11
+[HLT] Iter  450 | Train R: 17.48 | Eval R: 17.97 (+/- 13.25) | VAE Loss: 0.5140 | RL Loss: 8.5487
+[HLT] Iter  460 | Train R: 17.14 | Eval R: 18.42 (+/- 10.64) | VAE Loss: 0.4717 | RL Loss: 12.2480
+[HLT] Iter  470 | Train R: 17.45 | Eval R: 17.42 (+/- 11.66) | VAE Loss: 0.4837 | RL Loss: 11.8401
+[HLT] Iter  480 | Train R: 15.44 | Eval R: 16.90 (+/- 9.14) | VAE Loss: 0.5078 | RL Loss: 5.9888
+[HLT] Iter  490 | Train R: 19.08 | Eval R: 18.44 (+/- 11.08) | VAE Loss: 0.5217 | RL Loss: 10.1197
+[HLT] Iter  500 | Train R: 15.66 | Eval R: 18.76 (+/- 15.22) | VAE Loss: 0.4679 | RL Loss: 8.5825
+[HLT] Iter  510 | Train R: 14.76 | Eval R: 16.16 (+/- 14.89) | VAE Loss: 0.5223 | RL Loss: 7.8641
+[HLT] Iter  520 | Train R: 14.64 | Eval R: 13.26 (+/- 8.93) | VAE Loss: 0.4837 | RL Loss: 9.1510
+[HLT] Iter  530 | Train R: 17.80 | Eval R: 23.39 (+/- 17.13) | VAE Loss: 0.5183 | RL Loss: 9.3652
+[HLT] Iter  540 | Train R: 17.14 | Eval R: 9.88 (+/- 7.06) | VAE Loss: 0.5004 | RL Loss: 10.2010
+[HLT] Iter  550 | Train R: 13.51 | Eval R: 15.57 (+/- 7.96) | VAE Loss: 0.4376 | RL Loss: 6.7719
+[HLT] Iter  560 | Train R: 18.69 | Eval R: 19.02 (+/- 5.87) | VAE Loss: 0.4776 | RL Loss: 10.1266
+[HLT] Iter  570 | Train R: 11.98 | Eval R: 17.44 (+/- 10.94) | VAE Loss: 0.4186 | RL Loss: 7.4073
+[HLT] Iter  580 | Train R: 21.09 | Eval R: 12.57 (+/- 7.43) | VAE Loss: 0.4674 | RL Loss: 11.5060
+[HLT] Iter  590 | Train R: 16.64 | Eval R: 15.75 (+/- 11.12) | VAE Loss: 0.3723 | RL Loss: 7.4828
+[HLT] Iter  600 | Train R: 20.29 | Eval R: 14.41 (+/- 13.75) | VAE Loss: 0.4365 | RL Loss: 7.2890
+[HLT] Iter  610 | Train R: 16.04 | Eval R: 20.84 (+/- 10.36) | VAE Loss: 0.3583 | RL Loss: 6.8652
+[HLT] Iter  620 | Train R: 8.41 | Eval R: 11.63 (+/- 6.24) | VAE Loss: 0.3009 | RL Loss: 4.4848
+[HLT] Iter  630 | Train R: 12.79 | Eval R: 12.36 (+/- 7.90) | VAE Loss: 0.3690 | RL Loss: 4.5339
+[HLT] Iter  640 | Train R: 10.22 | Eval R: 11.75 (+/- 10.85) | VAE Loss: 0.3494 | RL Loss: 4.0866
+[HLT] Iter  650 | Train R: 10.89 | Eval R: 16.20 (+/- 10.89) | VAE Loss: 0.3554 | RL Loss: 3.4946
+[HLT] Iter  660 | Train R: 11.58 | Eval R: 13.81 (+/- 11.70) | VAE Loss: 0.3480 | RL Loss: 3.5880
+[HLT] Iter  670 | Train R: 9.87 | Eval R: 2.32 (+/- 4.50) | VAE Loss: 0.3377 | RL Loss: 4.0426
+[HLT] Iter  680 | Train R: 6.79 | Eval R: 7.65 (+/- 8.26) | VAE Loss: 0.3392 | RL Loss: 1.9891
+[HLT] Iter  690 | Train R: 7.16 | Eval R: 3.04 (+/- 3.37) | VAE Loss: 0.3339 | RL Loss: 2.1695
+[HLT] Iter  700 | Train R: 3.26 | Eval R: 4.57 (+/- 6.44) | VAE Loss: 0.3037 | RL Loss: 2.0149
+[HLT] Iter  710 | Train R: 6.29 | Eval R: 4.74 (+/- 8.88) | VAE Loss: 0.3797 | RL Loss: 2.1232
+[HLT] Iter  720 | Train R: 4.34 | Eval R: 4.87 (+/- 8.56) | VAE Loss: 0.3231 | RL Loss: 1.8773
+[HLT] Iter  730 | Train R: 5.35 | Eval R: 3.50 (+/- 6.51) | VAE Loss: 0.3147 | RL Loss: 1.7013
+[HLT] Iter  740 | Train R: 6.11 | Eval R: 6.66 (+/- 8.50) | VAE Loss: 0.3265 | RL Loss: 3.0222
+[HLT] Iter  750 | Train R: 3.22 | Eval R: 6.83 (+/- 6.41) | VAE Loss: 0.3326 | RL Loss: 2.1642
+[HLT] Iter  760 | Train R: 8.84 | Eval R: 6.81 (+/- 7.83) | VAE Loss: 0.3522 | RL Loss: 2.9122
+[HLT] Iter  770 | Train R: 8.39 | Eval R: 0.89 (+/- 5.49) | VAE Loss: 0.3238 | RL Loss: 4.6645
+[HLT] Iter  780 | Train R: 7.01 | Eval R: 8.40 (+/- 7.97) | VAE Loss: 0.3160 | RL Loss: 2.2182
+[HLT] Iter  790 | Train R: -0.06 | Eval R: 5.80 (+/- 8.55) | VAE Loss: 0.3144 | RL Loss: 0.7117
+[HLT] Iter  800 | Train R: 7.62 | Eval R: 2.60 (+/- 5.81) | VAE Loss: 0.3458 | RL Loss: 2.7606
+[HLT] Iter  810 | Train R: 6.83 | Eval R: 5.35 (+/- 14.37) | VAE Loss: 0.3997 | RL Loss: 3.2843
+[HLT] Iter  820 | Train R: -1.84 | Eval R: 6.41 (+/- 14.80) | VAE Loss: 0.2355 | RL Loss: 0.6036
+[HLT] Iter  830 | Train R: 3.71 | Eval R: 2.24 (+/- 4.62) | VAE Loss: 0.2985 | RL Loss: 2.2530
+[HLT] Iter  840 | Train R: 4.46 | Eval R: 0.03 (+/- 5.29) | VAE Loss: 0.3209 | RL Loss: 1.1067
+[HLT] Iter  850 | Train R: 4.17 | Eval R: 2.14 (+/- 4.75) | VAE Loss: 0.3085 | RL Loss: 1.4615
+[HLT] Iter  860 | Train R: 1.77 | Eval R: 5.35 (+/- 11.96) | VAE Loss: 0.3190 | RL Loss: 0.4838
+[HLT] Iter  870 | Train R: 6.03 | Eval R: 1.51 (+/- 4.25) | VAE Loss: 0.3044 | RL Loss: 2.1417
+[HLT] Iter  880 | Train R: 9.26 | Eval R: 3.65 (+/- 8.94) | VAE Loss: 0.3119 | RL Loss: 5.6473
+[HLT] Iter  890 | Train R: 4.62 | Eval R: -0.28 (+/- 3.65) | VAE Loss: 0.3441 | RL Loss: 1.0755
+[HLT] Iter  900 | Train R: 2.97 | Eval R: 0.59 (+/- 5.28) | VAE Loss: 0.3118 | RL Loss: 1.6915
+[HLT] Iter  910 | Train R: 5.82 | Eval R: -0.30 (+/- 4.30) | VAE Loss: 0.3199 | RL Loss: 3.7466
+[HLT] Iter  920 | Train R: 9.77 | Eval R: 13.00 (+/- 13.21) | VAE Loss: 0.3200 | RL Loss: 5.3857
+[HLT] Iter  930 | Train R: 6.61 | Eval R: 4.75 (+/- 8.49) | VAE Loss: 0.2903 | RL Loss: 3.2916
+[HLT] Iter  940 | Train R: 12.75 | Eval R: 8.32 (+/- 9.19) | VAE Loss: 0.3809 | RL Loss: 6.8755
+[HLT] Iter  950 | Train R: 9.84 | Eval R: 13.22 (+/- 6.80) | VAE Loss: 0.3307 | RL Loss: 4.9277
+[HLT] Iter  960 | Train R: 5.41 | Eval R: 5.58 (+/- 4.68) | VAE Loss: 0.3020 | RL Loss: 1.7618
+[HLT] Iter  970 | Train R: 8.34 | Eval R: 3.45 (+/- 4.66) | VAE Loss: 0.3009 | RL Loss: 3.6709
+[HLT] Iter  980 | Train R: 5.54 | Eval R: 8.11 (+/- 12.48) | VAE Loss: 0.3141 | RL Loss: 1.9054
+[HLT] Iter  990 | Train R: 4.33 | Eval R: 7.92 (+/- 11.87) | VAE Loss: 0.3104 | RL Loss: 1.1490
+[HLT] Iter 1000 | Train R: 9.27 | Eval R: 5.31 (+/- 8.23) | VAE Loss: 0.3237 | RL Loss: 5.4255
+[HLT] Training Complete. Best Eval Reward: 25.11

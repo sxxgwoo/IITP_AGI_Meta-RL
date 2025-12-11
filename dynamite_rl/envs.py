@@ -95,8 +95,8 @@ class GridWorldAlternate(gym.Env):
         if np.array_equal(self.agent_pos, active_goal_pos):
             reward = 1.0
         elif np.array_equal(self.agent_pos, self.goals[1 - self.active_goal_idx]):
-            # reward = 0.0
-            reward = -0.1
+            reward = 0.0
+            # reward = -1.0
 
         # Check session switch
         session_changed = False

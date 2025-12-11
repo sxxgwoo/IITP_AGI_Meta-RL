@@ -16,7 +16,7 @@ class Config:
     embedding_dim = 8
     
     # --- PPO & Optimization ---
-    num_iterations = 1000   
+    num_iterations = 3200   
     num_processes = 16
     
     ppo_epochs = 10        # 데이터 재사용 횟수
@@ -40,4 +40,4 @@ class Config:
     vae_hidden_size = 64   # (튜닝 전: 64)
     actor_critic_hidden = 128
     
-    vae_epochs = 5
+    vae_epochs = 1
